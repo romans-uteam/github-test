@@ -20,6 +20,7 @@ namespace ConsoleRelease2
 
             Console.WriteLine(array.GetSum());
 
+            // new line here
             Console.WriteLine(Massiv.GetSumOdd(array.GetArray()));
 
             FindClass instance = new FindClass();
